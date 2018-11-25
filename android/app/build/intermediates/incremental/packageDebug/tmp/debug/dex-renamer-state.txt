@@ -1,0 +1,4 @@
+#Sat Nov 24 01:24:35 BOT 2018
+base.0=D\:\\PROYECTOS\\TallerYSw2\\movilTurista\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
